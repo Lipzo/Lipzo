@@ -1,2 +1,0 @@
-# Lipzo
-config
